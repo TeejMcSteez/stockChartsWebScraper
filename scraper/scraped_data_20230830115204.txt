@@ -1,0 +1,139 @@
+DJIA
+34889.95
+37.28
+0.11
+Nasdaq Composite
+14013.60
+69.84
+0.50
+S&P 500
+4512.78
+15.15
+0.34
+DJ Total Stock Market
+45031.93
+173.48
+0.39
+Russell 2000
+1905.15
+9.62
+0.51
+NYSE Composite
+16086.65
+45.16
+0.28
+Barron's 400
+1005.25
+3.28
+0.33
+CBOE Volatility
+14.16
+-0.29
+-2.01
+DJIA Futures
+34973
+86
+0.25
+S&P 500 Futures
+4523.75
+17.00
+0.38
+Advancing
+1,841
+2,289
+Declining
+944
+1,651
+Unchanged
+94
+157
+Total
+2,879
+4,097
+New Highs
+88
+53
+New Lows
+11
+52
+Total
+1,015,719,709
+1,916,126,544
+Advancing
+575,528,132
+1,109,088,194
+Declining
+420,780,975
+779,270,666
+Unchanged
+19,410,602
+27,767,684
+iCoreConnect Inc. (ICCT)
+27.3M
+7.70
+2.06
+36.50
+AEON Biopharma Inc. (AEON)
+511.9K
+5.22
+1.20
+29.85
+Conn's Inc. (CONN)
+841.5K
+4.35
+0.88
+25.36
+Digital Brands Group Inc. (DBGI)
+5.2M
+10.62
+2.10
+24.65
+XIAO-I Corp. ADR (AIXI)
+408.1K
+3.11
+0.57
+22.37
+Eli Lilly & Co.
+557.40
+Visa Inc. Cl A
+245.83
+Mastercard Inc.
+412.19
+TJX Cos.
+91.22
+Marsh & McLennan Cos.
+196.68
+Brookfield Real Assets Income Fund Inc.
+16.05
+SIGNA Sports United N.V.
+1.26
+Westwood Holdings Group Inc.
+9.45
+Vince Holding Corp.
+2.34
+VirnetX Holding Corp.
+0.33
+S&P 500
+0.36
+Communication Services
+0.22
+Consumer Discretionary
+0.42
+Consumer Staples
+0.16
+Energy
+0.66
+Financials
+0.25
+Health Care
+0.21
+Industrials
+0.36
+Information Technology
+0.75
+Materials
+0.08
+Real Estate
+-0.02
+Utilities
+-0.28
